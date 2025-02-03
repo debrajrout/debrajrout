@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debrajrout&label=Profile%20views&color=0e75b6&style=flat" alt="debrajrout" /> </p>
 
-- 🔭 I’m currently working on [WebDev](https://www.littlenap.in/)
+- 🔭 I’m currently working as SDE [iServeU](https://iserveu.in/)
 
-- 🌱 I’m currently learning **ReactNative**
+- 🌱 I’m currently learning **Golang and Zig**
 
 - 📝 I regularly write articles on [https://medium.com/@debrajrout28](https://medium.com/@debrajrout28)
 
-- 💬 Ask me about **React, Next, Js, DSA**
+- 💬 Ask me about **React, Next, Go, Zig, Js, DSA**
 
 - 📫 How to reach me **debrajrout28@gmail.com**
 
